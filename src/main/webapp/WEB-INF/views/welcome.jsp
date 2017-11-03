@@ -7,7 +7,7 @@
 
 <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Mr. Dark Joe</title>
+    <title>Michael Gleeson's Personal Portfolio</title>
 
     <!-- meta -->
     <meta charset="utf-8">
@@ -247,8 +247,8 @@
                         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum animi repudiandae nihil aspernatur repellat temporibus doloremque sint ea laboriosam, excepturi iure inventore rerum voluptatibus, suscipit totam, sit necessitatibus. Rerum, blanditiis. </p>
                         <ul class="address">
                             <li><i class="pe-7s-map-marker"></i><span>Metro Detroit</span></li>
-                            <li><i class="pe-7s-mail"></i><span>mgleeson923@gmail.com</span></li>
-                            <li><i class="pe-7s-phone"></i><span>586-651-0137</span></li>
+                            <li><i class="pe-7s-mail"></i><span>Need to add Email</span></li>
+                            <li><i class="pe-7s-phone"></i><span>Google Voice Phone Number (Add later)</span></li>
                             <li><i class="pe-7s-global"></i><span><a href="#">michaelgleeson.com</a></span></li>
                         </ul>
                     </div>

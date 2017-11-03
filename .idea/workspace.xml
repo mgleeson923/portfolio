@@ -2,157 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0b64735-3aea-4498-a060-f3d18afd94c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/W_2014_365.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/aaronboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/armstrongnumber.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/detroit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/ferasibarra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gcbuddy.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/google maps.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/googlemapdetroit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/grandcircuslogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/parallax.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/posterminal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/roshambo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/testimonial.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/testimonial2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/testimonial3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/vernonscott.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/xcode.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/classes/michaelgleeson/controller/HomeController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/classes/michaelgleeson/util/AppConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/W_2014_365.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/aaronboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/armstrongnumber.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/bg-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/detroit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/ferasibarra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/gcbuddy.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/google maps.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/googlemapdetroit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/grandcircuslogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/parallax.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/portfolio6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/posterminal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/roshambo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/testimonial.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/testimonial2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/testimonial3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/vernonscott.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/images/xcode.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/michaelgleeson/controller/HomeController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/michaelgleeson/util/AppConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/PersonalPortfolio_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/PersonalPortfolio_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVCDemo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVCDemo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/template-meta.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PersonalPortfolio.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/michaelgleeson/controller/HomeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/michaelgleeson/util/AppConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/css/helper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/css/pe-icon-7-stroke.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/font_icon/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.actual.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/smooth-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/views/welcome.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/css/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/css/helper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/css/pe-icon-7-stroke.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/font_icon/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/jquery.actual.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/SpringMVCDemo-1.0-SNAPSHOT/resources/js/smooth-scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,8 +18,8 @@
       <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="257" column="51" lean-forward="false" selection-start-line="257" selection-start-column="51" selection-end-line="257" selection-end-column="51" />
+            <state relative-caret-position="-288">
+              <caret line="250" column="102" lean-forward="false" selection-start-line="250" selection-start-column="102" selection-end-line="250" selection-end-column="102" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -943,12 +793,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507698204870</updated>
       <workItem from="1507698209137" duration="7983000" />
-      <workItem from="1507875689128" duration="17940000" />
+      <workItem from="1507875689128" duration="18637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25923000" />
+    <option name="totallyTimeSpent" value="26620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="823" extended-state="0" />
@@ -1170,8 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="257" column="51" lean-forward="false" selection-start-line="257" selection-start-column="51" selection-end-line="257" selection-end-column="51" />
+        <state relative-caret-position="-288">
+          <caret line="250" column="102" lean-forward="false" selection-start-line="250" selection-start-column="102" selection-end-line="250" selection-end-column="102" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

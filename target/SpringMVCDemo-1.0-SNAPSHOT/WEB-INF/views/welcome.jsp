@@ -7,7 +7,7 @@
 
 <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Mr. Dark Joe</title>
+    <title>Michael Gleeson's Personal Portfolio</title>
 
     <!-- meta -->
     <meta charset="utf-8">
@@ -255,7 +255,7 @@
                 </div>
                 <div class="col-sm-6">
                     <h2 class="con-title">Contact Me</h2>
-                    <form role="form" method="post" action="mailto:mgleeson923@gmail.com" ENCTYPE="text/plain">
+                    <form role="form" method="post">
                         <div class="form-group">
                             <input type="text" class="form-control" id="user_name" placeholder="Enter your name">
                         </div>
